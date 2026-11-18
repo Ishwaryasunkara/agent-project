@@ -1,0 +1,7 @@
+langchain
+langchain-ollama
+langchain-chroma
+langchain-community
+langgraph
+python-dotenv
+pytest
